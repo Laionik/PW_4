@@ -45,7 +45,5 @@ namespace PW_4
         {
             return n;
         }
-
-    
     }
 }

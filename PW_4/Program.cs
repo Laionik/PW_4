@@ -18,7 +18,7 @@ namespace PW_4
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
-        
+
         public static void calculate()
         {
             int value = 1, n;
